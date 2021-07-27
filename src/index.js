@@ -16,7 +16,6 @@ firebase.initializeApp({
   appId: "1:1092605272194:web:e7976a197a3c1096bd549b",
   measurementId: "G-BTHRDL3E8B"
 });
-firebase.analytics();
 
 ReactDOM.render(
   <React.StrictMode>
